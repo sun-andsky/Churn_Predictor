@@ -25,19 +25,26 @@
 ![Joblib](https://img.shields.io/badge/Joblib-9C27B0?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Main Screen
-![Home Result](./Screenshots/Home_1.png)
+---
 
+### Main Screen
+
+![Home Result](./Screenshots/Home_1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;
 ![Home Result](./Screenshots/Home_2.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ### Responsive design
 
-<div style="display: flex; justify-content: space-between;">
+<div >
   <img src="./Screenshots/Responsive_1.png" style="width: 30%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./Screenshots/Responsive_2.png" style="width: 30%;" />
 </div>
 
-###  Model Building Steps
+---
+
+##  Model Building Steps
 
 1. **Data Collection**  
    Collected historical customer data from Kaggle.
