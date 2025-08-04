@@ -1,8 +1,8 @@
 # Customer Churn Prediction
 
-## A web application built with **Streamlit** that predicts whether a customer will leave the bank using anusing a trained Machine learning model (Support Vector Machine - SVM) . 
+### A web application built with **Streamlit** that predicts whether a customer will leave the bank using anusing a trained Machine learning model (Support Vector Machine - SVM) . 
 
-## The app takes in customer details like credit score, age, balance, etc., and gives Results.
+### The app takes in customer details like credit score, age, balance, etc., and gives Results.
 
 
 ### Features
