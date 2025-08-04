@@ -4,6 +4,7 @@
 
 ### The app takes in customer details like credit score, age, balance, etc., and gives Results.
 
+--- 
 
 ### Features
 
